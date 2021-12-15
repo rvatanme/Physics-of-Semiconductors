@@ -9,4 +9,4 @@ In a system of non interacting electrons, in thermodynamic equilibrium, FD distr
 
 ![](https://latex.codecogs.com/svg.latex?%5CLARGE%20F%28E%29%20%3D%20%5Cfrac%7B1%7D%7B1&plus;exp%5B%28E-E_F%29/kT%5D%7D)
 
-where E<\sub>F<\sub> is the Fermi energy level which can be determined from the charge neutrality condition.
+where E<sub>F</sub> is the Fermi energy level which can be determined from the charge neutrality condition.
