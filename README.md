@@ -3,3 +3,4 @@ The functionality of an electronic device largely relies on the physics and prop
 physics of semiconductors in different phases have been the subject of vast majority of studies in the electronic device field. Here some of these most important device-related aspect of semiconductors are reviewed.
 
 ## Carrier Concentration in Bulk Semiconductors
+The concentration of free carriers to move in valence and conduction bands are govern by the Fermi-Dirac static.  
