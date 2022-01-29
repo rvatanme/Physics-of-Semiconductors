@@ -19,3 +19,8 @@ In a system of non interacting electrons, in thermodynamic equilibrium, FD distr
 where E<sub>F</sub> is the Fermi energy level which can be determined from the charge neutrality condition.
 
 ### Intrinsic Bulk Semiconductor
+
+
+# References
+1. Sze, Simon M., Yiming Li, and Kwok K. Ng. Physics of semiconductor devices. John wiley & sons.
+2. Silvaco, https://silvaco.com/.
